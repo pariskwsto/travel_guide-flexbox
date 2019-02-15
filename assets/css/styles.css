@@ -199,3 +199,15 @@ header nav li {
     font-weight: 300;
     margin: 25px 0;
 }
+
+/* Testimonials section */
+.testimonials .quote {
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 1.4;
+    margin: 20px 0 15px;
+}
+
+.testimonials .author {
+    color: #f19f4d;
+}
