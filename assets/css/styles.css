@@ -41,6 +41,11 @@ section {
     padding: 80px;
 }
 
+section:not(.hero):nth-child(even) {
+    background-color: #2E3138;
+    color: #fff;
+}
+
 .grid {
     width: 100%;
     display: flex;
@@ -172,4 +177,25 @@ header nav li {
 
 .places .grid li.large {
     flex-basis: 70%;
+}
+
+/* Equipment styles */
+.equipment .grid li {
+    padding: 50px;
+    flex-basis: 33.33%;
+    text-align: center;
+}
+
+.equipment .equipment__item p {
+    padding: 0;
+}
+
+.equipment .equipment__item i {
+    color: #fff;
+}
+
+.equipment .equipment__item h4 {
+    font-size: 30px;
+    font-weight: 300;
+    margin: 25px 0;
 }
