@@ -4,7 +4,7 @@ Responsive Travel Guide demo website implemented with flexbox, designed and code
 
 Demo: [https://pariskwsto.github.io/travel_guide-flexbox/](https://pariskwsto.github.io/travel_guide-flexbox/)
 
-![Mockup demo](screenshots/pic.png)
+![Mockup demo](screenshots/pic.jpg)
 
 ## Contents
 * [License](#license)
