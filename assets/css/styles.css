@@ -208,6 +208,35 @@ header nav li {
     margin: 20px 0 15px;
 }
 
-.testimonials .author {
+.testimonials .author,
+footer a {
     color: #f19f4d;
+}
+
+/* Footer styles */
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+    padding: 20px 0;
+    background-color: #2E3138;
+}
+
+footer ul {
+    display: flex;
+}
+
+footer ul li {
+    margin-left: 16px;
+}
+
+footer a i {
+    color: #fff;
+}
+
+footer p {
+    font-size: 14px;
+    opacity: .8;
+    align-self: center;
 }
