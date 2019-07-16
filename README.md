@@ -1,6 +1,6 @@
 # Travel Guide - One page template
 
-Responsive Travel Guide demo website implemented with flexbox, designed and coded by [Paris Kostopoulos](https://github.com/pariskwsto). 
+> A Responsive Travel Guide demo website implemented with flexbox, designed and coded by [Paris Kostopoulos](https://github.com/pariskwsto). 
 
 Demo: [https://pariskwsto.github.io/travel_guide-flexbox/](https://pariskwsto.github.io/travel_guide-flexbox/)
 
