@@ -1,0 +1,8 @@
+version: "3.7"
+
+services:
+  travel_guide-flexbox:
+    container_name: travel_guide-flexbox
+    build: .
+    ports:
+        - "80:80"
